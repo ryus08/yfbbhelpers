@@ -1,0 +1,30 @@
+{
+  "name": "yfbbhelpers",
+  "version": "0.0.1",
+  "description": "",
+  "engines": {
+    "node": ">=6.10.2"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "passport-yahoo-oauth": "^0.1.2",
+    "yahoo-fantasy": "^2.0.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryus08/yfbbhelpers.git"
+  },
+  "author": "Zachary Marois <zachary.marois@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryus08/yfbbhelpers/issues"
+  },
+  "homepage": "https://github.com/ryus08/yfbbhelpers#readme"
+}
